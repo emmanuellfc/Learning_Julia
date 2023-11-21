@@ -13,6 +13,11 @@ md"""
 # Diffusion Equation on a Square Plate
 """
 
+# ╔═╡ 80e30af0-1e35-4e2a-8a39-8989ba70c797
+md"""
+Source:[Diffusion Equation on a Square Plate](https://danielvandh.github.io/FiniteVolumeMethod.jl/dev/tutorials/diffusion_equation_on_a_square_plate/)
+"""
+
 # ╔═╡ edc3e41f-899d-446b-8bba-abea41f7149b
 begin
 	a, b, c, d = 0.0, 2.0, 0.0, 2.0
@@ -2326,6 +2331,7 @@ version = "3.5.0+0"
 
 # ╔═╡ Cell order:
 # ╟─ebf173fc-8882-11ee-1cd2-a5bd1f1f245b
+# ╟─80e30af0-1e35-4e2a-8a39-8989ba70c797
 # ╠═dd36eff6-c390-45b2-ae3e-01e6cc43f749
 # ╠═edc3e41f-899d-446b-8bba-abea41f7149b
 # ╠═d95ed22f-7862-42a2-a9b6-7ac2e65b9014
