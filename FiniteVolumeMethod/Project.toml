@@ -1,0 +1,4 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+FiniteVolumeMethod = "d4f04ab7-4f65-4d72-8a28-7087bc7f46f4"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
