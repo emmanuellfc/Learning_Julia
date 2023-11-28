@@ -1,0 +1,3 @@
+[deps]
+NeuralPDE = "315f7962-48a3-4962-8226-d0f33b1235f0"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
